@@ -1,3 +1,6 @@
+# This repo has been marked read-only and will be supported going forward in the DelineaXPM GitHub: https://github.com/DelineaXPM/secretserver-postman
+
+
 # Secret Server Postman Collections
 
 This repository host a Postman collection for latest versions of Secret Server. An environment file is also included that the collections are configured to utilize.
